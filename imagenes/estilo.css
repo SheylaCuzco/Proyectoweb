@@ -1,0 +1,25 @@
+.conteiner{
+    
+    text-align: center;
+    font-size: 100%;
+    
+    
+}
+
+
+h1{
+    
+    font-size:200%;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+h2{
+    background-color: ghostwhite;
+    padding: 5px;
+    font-size:150%;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
